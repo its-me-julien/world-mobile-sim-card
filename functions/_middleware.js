@@ -18,8 +18,8 @@ export async function onRequest(context) {
   }
 
   // Metatags Variables (edit these!)
-  const metatitle = "Cloudflare Pages Template"
-  const metadescription = "Get started with Cloudflare Pages by deploying this pretty simple template on your own account, and start playing around."
+  const metatitle = "World Mobile Sim | eSIM USA"
+  const metadescription = "Local rates & better coverage with World Mobile data packs. Order your eSIMs and top up on the go."
 
   let name = searchParams.get('myQuery')
   let ogtag
